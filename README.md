@@ -12,7 +12,7 @@ Lunar Lander is a physics-based game where you control a spaceship and attempt t
 ## Dependencies
 Ensure you have the necessary dependencies installed:
 ```sh
-pip install pygame
+pip install gymnasium
 ```
 
 ---
